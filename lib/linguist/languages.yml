@@ -591,6 +591,11 @@ Haml:
   type: markup
   primary_extension: .haml
 
+Slim:
+  group: HTML
+  type: markup
+  primary_extension: .slim
+
 Haskell:
   type: programming
   color: "#29b544"
